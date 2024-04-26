@@ -1,4 +1,4 @@
-# Project Title: Simple Sales and Income Calculator
+# Simple Sales and Income Calculator
 
 **Short Description:** This Python project calculates the net income of a small business by tracking sales data and factoring in expenses.
 
